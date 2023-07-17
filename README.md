@@ -1,7 +1,7 @@
 DevOps & Site Reliability Engineering Tools
 <!--lint ignore no-dead-urls--> 
 
-A curated list of Site Reliability and Production Engineering tools - Created by other authors, modified for personal use by Pdannyable.
+A curated list of Site Reliability and DevOps Engineering tools - Created by other authors, modified for personal use by Pdannyable.
 
 ## Contents
 
